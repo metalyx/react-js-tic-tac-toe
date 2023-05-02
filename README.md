@@ -6,9 +6,9 @@ This is a classical Tic Tac Toe App that built using React.js, JS and CSS
 
 ### FUNCTIONS AVAILABLE
 
-✔️ You can put crosses and circles in the fields
-✔️ App calculates result of the game
-✔️ Switching between cross-player and circle-player happens in every step
+✔️ You can put crosses and circles in the fields <br />
+✔️ App calculates result of the game <br />
+✔️ Switching between cross-player and circle-player happens in every step <br />
 
 ### TOOLS USED
 
